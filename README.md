@@ -30,6 +30,19 @@ registrations, admin approval workflows, and rich-text document publishing.
 | HTML Sanitization | HtmlSanitizer (AngleSharp-based) |
 | Email | SendGrid API |
 
+---
+
+## Default Admin Credentials
+
+> ⚠️ **TODO:** Fill in the actual seeded values from your `Admin_Schema.sql`
+> `INSERT INTO Admins (...)` statement. Paste that statement to me if you'd
+> like me to fill this in for you automatically.
+
+| Field    | Value                           |
+|----------|---------------------------------|
+| Username | admin                           |
+| Password | Admin@123                       |
+
 ## Setup
 
 ### 1. Database
