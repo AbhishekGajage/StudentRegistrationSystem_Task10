@@ -1,0 +1,15 @@
+2026-08-06 11:21:41	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 11:22:10	RichTextEditorEdit.Sanitize	FileLoadException	Could not load file or assembly 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+2026-08-06 11:22:15	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 11:22:30	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 11:22:41	RichTextEditorEdit.Sanitize	FileLoadException	Could not load file or assembly 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+2026-08-06 12:06:12	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 12:06:14	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 12:06:16	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 12:06:17	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 12:06:17	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 12:06:17	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 12:06:17	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 12:06:17	RichTextEditorList.BindGrid	SqlException	Invalid object name 'RichTextDocuments'.
+2026-08-06 12:16:49	RichTextEditorEdit.Sanitize	FileLoadException	Could not load file or assembly 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+2026-08-06 12:22:21	RichTextEditorEdit.Sanitize	FileLoadException	Could not load file or assembly 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)

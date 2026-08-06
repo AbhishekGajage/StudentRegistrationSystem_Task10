@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+</head>
+<body style="margin:0; padding:0; background:#f4f6fb; font-family:Arial, Helvetica, sans-serif;">
+  <table width="100%" cellpadding="0" cellspacing="0" style="background:#f4f6fb; padding:30px 0;">
+    <tr>
+      <td align="center">
+        <table width="480" cellpadding="0" cellspacing="0" style="background:#ffffff; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+          <tr>
+            <td style="background:#16a34a; padding:22px 30px;">
+              <h1 style="margin:0; color:#ffffff; font-size:20px;">{{InstituteName}}</h1>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:30px;">
+              <h2 style="margin:0 0 10px; color:#111827; font-size:18px;">Application Approved ✅</h2>
+              <p style="color:#374151; font-size:14px; line-height:1.6;">
+                Dear {{StudentName}},
+              </p>
+              <p style="color:#374151; font-size:14px; line-height:1.6;">
+                Congratulations! Your student registration has been <strong>approved</strong> by the administration.
+                You may now log in to the student portal using your registered email address.
+              </p>
+              <table cellpadding="0" cellspacing="0" style="margin:18px 0; width:100%; background:#f0fdf4; border:1px solid #bbf7d0; border-radius:6px;">
+                <tr>
+                  <td style="padding:12px 16px; font-size:13px; color:#166534;">
+                    <strong>Student ID:</strong> {{StudentID}}<br/>
+                    <strong>Approved On:</strong> {{ApprovalDateTime}}
+                  </td>
+                </tr>
+              </table>
+              <p style="color:#374151; font-size:14px; line-height:1.6;">
+                If you have any questions, please contact the administration office.
+              </p>
+              <p style="color:#374151; font-size:14px; line-height:1.6;">
+                Regards,<br/>Admissions Team &mdash; {{InstituteName}}
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="background:#f9fafb; padding:14px 30px; text-align:center;">
+              <p style="margin:0; font-size:11px; color:#9ca3af;">&copy; {{CurrentYear}} {{InstituteName}}. All rights reserved.</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

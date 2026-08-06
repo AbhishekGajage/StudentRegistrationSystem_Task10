@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Registration Received</title>
+</head>
+<body style="margin:0;padding:0;background-color:#f4f6f9;font-family:Segoe UI, Arial, sans-serif;">
+    <table width="100%" cellpadding="0" cellspacing="0" style="background-color:#f4f6f9;padding:30px 0;">
+        <tr>
+            <td align="center">
+                <table width="520" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:8px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+                    <tr>
+                        <td style="background:#2b5fd9;padding:22px 30px;">
+                            <h1 style="color:#ffffff;font-size:20px;margin:0;">{{InstituteName}}</h1>
+                            <p style="color:#dce6ff;font-size:12px;margin:4px 0 0;">Student Registration Portal</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding:30px;">
+                            <h2 style="margin:0 0 10px;color:#111827;font-size:18px;">Registration Received ✅</h2>
+                            <p style="font-size:14px;color:#444;line-height:1.6;margin:0 0 16px;">
+                                Dear {{StudentName}},
+                            </p>
+                            <p style="font-size:14px;color:#444;line-height:1.6;margin:0 0 20px;">
+                                Thank you for registering with {{InstituteName}}. We've received your application and
+                                it is now <strong>pending review</strong> by our administration team. You'll receive
+                                another email as soon as a decision has been made, and you'll be able to log in to the
+                                student portal once your registration is approved.
+                            </p>
+                            <div style="text-align:center;margin:0 0 22px;">
+                                <img src="cid:profilePhoto" width="88" height="88" alt="Profile Photo"
+                                     style="width:88px;height:88px;border-radius:50%;object-fit:cover;border:3px solid #2b5fd9;display:inline-block;" />
+                            </div>
+                            <table width="100%" cellpadding="6" cellspacing="0" style="font-size:13px;color:#333;background:#f8f9fb;border:1px solid #eef1f5;border-radius:6px;">
+                                <tr><td style="width:160px;color:#777;padding:10px 16px;">Student ID</td><td style="padding:10px 16px;"><strong>{{StudentID}}</strong></td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Full Name</td><td style="padding:10px 16px;">{{StudentName}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Email</td><td style="padding:10px 16px;">{{Email}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Mobile Number</td><td style="padding:10px 16px;">{{Mobile}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Gender</td><td style="padding:10px 16px;">{{Gender}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Date of Birth</td><td style="padding:10px 16px;">{{DateOfBirth}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Address</td><td style="padding:10px 16px;">{{Address}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Country</td><td style="padding:10px 16px;">{{Country}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">State</td><td style="padding:10px 16px;">{{State}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">District</td><td style="padding:10px 16px;">{{District}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Course</td><td style="padding:10px 16px;">{{Course}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Semester</td><td style="padding:10px 16px;">{{Semester}}</td></tr>
+                                <tr><td style="color:#777;padding:10px 16px;">Submitted On</td><td style="padding:10px 16px;">{{RegistrationDateTime}}</td></tr>
+                            </table>
+                            <p style="font-size:13px;color:#999;line-height:1.6;margin:20px 0 0;">
+                                Keep your Student ID handy &mdash; you may need it if you contact the administration office.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="background:#f8f9fb;padding:16px 30px;border-top:1px solid #eee;">
+                            <p style="font-size:11px;color:#999;margin:0;">
+                                &copy; {{CurrentYear}} {{InstituteName}}. This is an automated message &mdash; please do not reply directly to this email.
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,28 @@
+2026-08-05 11:53:39	SUCCESS	anitagajage1212@gmail.com	Your OTP Code for Student Registration	
+2026-08-05 11:55:12	SUCCESS	anitagajage1212@gmail.com	Your OTP Code for Student Registration	
+2026-08-05 11:55:56	SUCCESS	anitagajage1212@gmail.com	Registration Received - new institude	
+2026-08-05 11:56:01	SUCCESS	abhigajage456@gmail.com	New Student Registration: Anita Gajage	
+2026-08-05 12:06:03	SUCCESS	anitagajage1212@gmail.com	Your OTP Code for Student Registration	
+2026-08-05 12:08:27	SUCCESS	anitagajage1212@gmail.com	Registration Received - new institude	
+2026-08-05 12:08:34	SUCCESS	abhigajage456@gmail.com	New Student Registration: Anita Gajage	
+2026-08-05 12:11:09	SUCCESS	anitagajage1212@gmail.com	Your Registration Has Been Approved	
+2026-08-05 12:11:54	SUCCESS	anitagajage1212@gmail.com	Update on Your Registration Application	
+2026-08-05 12:47:44	SUCCESS	anitagajage1212@gmail.com	Your OTP Code for Student Registration	
+2026-08-05 12:48:26	SUCCESS	anitagajage1212@gmail.com	Your OTP Code for Student Registration	
+2026-08-05 12:53:04	SUCCESS	anitagajage1212@gmail.com	Registration Received - new institude	
+2026-08-05 12:53:05	SUCCESS	abhigajage456@gmail.com	New Student Registration: anita gajage	
+2026-08-05 12:55:32	SUCCESS	anitagajage1212@gmail.com	Your Registration Has Been Approved	
+2026-08-05 12:58:17	SUCCESS	anitagajage1212@gmail.com	Update on Your Registration Application	
+2026-08-05 13:02:16	SUCCESS	abhigajage456@gmail.com	Your OTP Code for Student Registration	
+2026-08-05 13:09:16	SUCCESS	abhigajage456@gmail.com	Registration Received - new institude	
+2026-08-05 13:09:17	SUCCESS	abhigajage456@gmail.com	New Student Registration: Abhishek Gajage	
+2026-08-05 13:11:55	SUCCESS	abhigajage456@gmail.com	Your Registration Has Been Approved	
+2026-08-05 13:12:35	SUCCESS	abhigajage456@gmail.com	Update on Your Registration Application	
+2026-08-05 13:19:06	SUCCESS	abhigajage456@gmail.com	Your Registration Has Been Approved	
+2026-08-05 13:50:35	SUCCESS	abhishekgajage.2003don@gmail.com	Your OTP Code for Student Registration	
+2026-08-05 13:51:42	SUCCESS	abhishekgajage.2003don@gmail.com	Registration Received - new institude	
+2026-08-05 13:51:43	SUCCESS	abhigajage456@gmail.com	New Student Registration: veer pratab singh	
+2026-08-05 13:52:45	SUCCESS	abhishekgajage.2003don@gmail.com	Your Registration Has Been Approved	
+2026-08-05 13:53:09	SUCCESS	abhishekgajage.2003don@gmail.com	Update on Your Registration Application	
+2026-08-06 13:30:53	SUCCESS	abhishekgajage.2003don@gmail.com	Your Registration Has Been Approved	
+2026-08-06 13:31:03	SUCCESS	anitagajage1212@gmail.com	Your Registration Has Been Approved	

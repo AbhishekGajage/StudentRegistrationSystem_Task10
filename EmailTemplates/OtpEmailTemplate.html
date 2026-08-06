@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Verify your email</title>
+</head>
+<body style="margin:0;padding:0;background-color:#f4f6f9;font-family:Segoe UI, Arial, sans-serif;">
+  <table width="100%" cellpadding="0" cellspacing="0" style="background-color:#f4f6f9;padding:30px 0;">
+    <tr>
+      <td align="center">
+        <table width="480" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:8px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+          <tr>
+            <td style="background:#2b5fd9;padding:22px 30px;">
+              <h1 style="color:#ffffff;font-size:20px;margin:0;">{{InstituteName}}</h1>
+              <p style="color:#dce6ff;font-size:12px;margin:4px 0 0;">Student Registration Portal</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:30px;">
+              <p style="font-size:15px;color:#222;margin:0 0 12px;">Hi {{StudentName}},</p>
+              <p style="font-size:14px;color:#444;line-height:1.6;margin:0 0 20px;">
+                Thank you for registering with {{InstituteName}}. Please use the One-Time
+                Password (OTP) below to verify your email address and complete your registration.
+              </p>
+              <div style="text-align:center;margin:24px 0;">
+                <span style="display:inline-block;background:#eef2ff;color:#2b5fd9;font-size:28px;
+                             letter-spacing:6px;font-weight:bold;padding:14px 26px;border-radius:6px;">
+                  {{OtpCode}}
+                </span>
+              </div>
+              <p style="font-size:13px;color:#666;line-height:1.6;margin:0 0 8px;">
+                This code will expire in <strong>{{ExpiryMinutes}} minutes</strong>. Enter it on the
+                registration page to verify your account.
+              </p>
+              <p style="font-size:13px;color:#999;line-height:1.6;margin:16px 0 0;">
+                If you did not request this, you can safely ignore this email.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="background:#f8f9fb;padding:16px 30px;border-top:1px solid #eee;">
+              <p style="font-size:11px;color:#999;margin:0;">
+                &copy; {{CurrentYear}} {{InstituteName}}. All rights reserved.
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

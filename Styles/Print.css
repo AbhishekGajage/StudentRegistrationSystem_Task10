@@ -1,0 +1,33 @@
+/* Loaded only in the print media query context via <link media="print"> */
+@page {
+    size: A4 landscape;
+    margin: 14mm;
+}
+body {
+    font-family: Arial, sans-serif;
+    color: #000;
+}
+.print-header {
+    text-align: center;
+    margin-bottom: 12px;
+}
+.print-header h2 { margin: 0; }
+.print-header p { margin: 2px 0; font-size: 11px; color: #444; }
+
+table.student-grid {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 10px;
+}
+table.student-grid th,
+table.student-grid td {
+    border: 1px solid #999;
+    padding: 4px 6px;
+}
+table.student-grid th {
+    background: #ddd !important;
+    color: #000 !important;
+    -webkit-print-color-adjust: exact;
+}
+.grid-photo { width: 28px; height: 28px; border-radius: 50%; }
+.no-print { display: none !important; }
